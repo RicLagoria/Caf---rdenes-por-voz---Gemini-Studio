@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Café Órdenes por Voz",
+  "description": "Una aplicación para realizar pedidos en una cafetería utilizando comandos de voz. La aplicación transcribe tu pedido, lo procesa y lo confirma verbalmente.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
